@@ -1,4 +1,4 @@
-# This is a simple BlackJack game
+# Simple BlackJack game
 
 ## Includes:
 - Sorting(Bubble sort)
